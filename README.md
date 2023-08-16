@@ -1,2 +1,2 @@
-# emireti
-Contact: info@emireti.com
+# Zabeel.One
+Contact: info@zabeel.one
